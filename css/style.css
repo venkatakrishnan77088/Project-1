@@ -8,12 +8,11 @@
 .header-fc{
 	display:flex;
 	justify-content:space-between;
-	background-color:black;
+	background-color:#212529;
 }
 .header-fc .logo{
 	width:150px;
 	height:40px;
-	background-color:#212529;
 	color:red;
 }
 .header-fc .navi{
@@ -21,4 +20,29 @@
 	width:510px;
 	color:red;
 }
+.banner
+{
+	background-color:white;
+}
+.banner-fc{
+	display:flex;
+	background-color:#212529;
+	justify-content:space-between;
+}
+.banner-fc .banner-text{
+	height:351px;
+	width:637px;
+}
+.banner-fc .banner-image{
+	margin:25px;
+	border:1px solid black;
+    width:407px;
+	color:red;
+	text-align:center;
+	padding-top:50px;
+
+}
+
+
+	
 	
