@@ -136,8 +136,24 @@
 	background-color:#A2D9CE;
 	text-align:center;
 }
-	
-
+.footer{
+	background-color:#297ffd;
+}
+.footer-fc{
+	display:flex;
+	justify-content:space-between;
+	margin-top:25px;
+	padding:48px;
+}
+.footer-l{
+	height:66px;
+	width:421px;
+}
+.footer-r{
+   height:66px;
+   width:332px;
+   text-align:left;
+}
 	
 	
 
